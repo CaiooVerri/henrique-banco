@@ -1,0 +1,25 @@
+{
+  "transacoes": [
+    {
+      "id": "1",
+      "valor": 5000.99,
+      "tipo": "Débito"
+    },
+    {
+      "id": "2",
+      "valor": 250,
+      "tipo": "Débito"
+    },
+    {
+      "id": 3,
+      "valor": 89.38,
+      "tipo": "Crédito"
+    }
+  ],
+  "contas": [
+    {
+      "id": "1",
+      "valor_total": 750
+    }
+  ]
+}
